@@ -143,8 +143,9 @@ v
 <td>Basic Financial Acounting(BFA)</td>
 </tr> 
 ```
-
 ## OUTPUT
+##![alt text](oviya/rinapp/static/logo.png)
+
 ![alt text](<ex 03.png>)
 
 ## RESULT
