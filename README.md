@@ -24,11 +24,16 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+![alt text](logo.png)
+
 ```
 <html>
 <head>
-<title>Sofware companies</title>
+<title>Timetable</title>
 </head>
+<center>
+   <img src="logo.png" height="100" width="540">
+</center>
 <table bgcolor="pink" align="center" border="2" cellspacing="2" cellpadding="3">
 <caption>SLOT TIME TABLE-AYISHA RINSI K(23013527)</caption>
 <tr>
