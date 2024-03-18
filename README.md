@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-![alt text](logo.png)
+
 ```
 <html>
 <head>
@@ -148,9 +148,11 @@ v
 </tr> 
 ```
 ## OUTPUT
+![table](https://github.com/Ayisharinsi/slot/assets/148609304/a504d1f6-67cd-4b3e-8e90-ccbfe2632cd3)
 
 
-![alt text](<ex 03.png>)
+
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
