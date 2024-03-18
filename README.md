@@ -25,7 +25,10 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ![alt text](logo.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4e5eaa963fa7a39fe6918d34b9584bae13501af5
 ```
 <html>
 <head>
